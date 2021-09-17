@@ -144,7 +144,7 @@ xqmnb(qmnb)
 end
 
 function Exit()
-  print('Thnaks For Supporting Us .')
+  print('Thanks For Supporting Us .')
   gg.skipRestoreState()
   gg.setVisible(true)
   os.exit()
